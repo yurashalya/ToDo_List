@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400,500,500i,700');
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.myTable,.table th {
+	text-align:center;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.myTable { 
+	margin-top: 50px;
+}
+
+.myAlert {
+	margin: 50px 0 0;
+}
+
+.alert h4 {
+	margin: 0;
+}
+
+span {
+	color: red;
+}
+
+.footer { 
+	padding-top: 320px;
+}
+
